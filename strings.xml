@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ഫയൽഗാർഡ് ഫോറൻസിക്സ്</string>
+    <string name="nav_dashboard">ഡാഷ്ബോർഡ്</string>
+    <string name="nav_explorer">സ്റ്റോറേജ് എക്സ്പ്ലോറർ</string>
+    <string name="nav_scan">ഡീപ് സ്കാൻ</string>
+    <string name="nav_hidden">ഹിഡൻ ഫയൽസ് ലാബ്</string>
+    <string name="nav_decoder">അജ്ഞാത ഫയൽ ഡീകോഡർ</string>
+    <string name="nav_origin">ഫയൽ ഉറവിടം</string>
+    <string name="nav_malware">മാൽവെയർ വിശകലനം</string>
+    <string name="nav_apk">APK ഇൻസ്പെക്ടർ</string>
+    <string name="nav_recovery">റിക്കവറി ലാബ്</string>
+    <string name="nav_quarantine">ക്വാറന്റൈൻ</string>
+    <string name="nav_reports">ഫോറൻസിക് റിപ്പോർട്ടുകൾ</string>
+    <string name="nav_settings">സ്വകാര്യതയും ക്രമീകരണങ്ങളും</string>
+
+    <string name="offline_mode_title">ഓഫ്‌ലൈൻ മോഡ് (സ്ഥിരസ്ഥിതി)</string>
+    <string name="offline_mode_desc">എല്ലാ സ്കാനിംഗും ഡീകോഡിംഗും സുരക്ഷാ പരിശോധനയും ഫോണിൽ തന്നെ നടക്കുന്നു. ഫയലുകൾ പുറത്തേക്ക് അയക്കില്ല.</string>
+    <string name="origin_unknown_banner">ORIGINAL SOURCE UNKNOWN — INSUFFICIENT FORENSIC EVIDENCE.</string>
+    <string name="safe_indicators_banner">അറിയപ്പെടുന്ന സംശയാസ്പദ സൂചനകളൊന്നും കണ്ടെത്തിയില്ല</string>
+    <string name="static_analysis_disclaimer">സ്റ്റാറ്റിക് അനാലിസിസ് ഫയലുകൾ പ്രവർത്തിപ്പിക്കാതെ ഘടനയും മെറ്റാഡാറ്റയും പരിശോധിക്കുന്നു. എല്ലാ മാൽവെയറുകളും കണ്ടെത്തുമെന്ന് ഉറപ്പുനൽകുന്നില്ല.</string>
+    <string name="quarantine_disclaimer">ക്വാറന്റൈനിലേക്ക് പകർത്തുന്നത് ഹാഷ് സുരക്ഷിതമാക്കുന്നു; ഇത് ബാഹ്യ സ്റ്റോറേജിലെ യഥാർത്ഥ ഫയൽ സ്വയമേവ നീക്കം ചെയ്യുകയോ നിർവീര്യമാക്കുകയോ ചെയ്യുന്നില്ല.</string>
+    <string name="recovery_disclaimer">ആധുനിക ആൻഡ്രോയിഡ് എൻക്രിപ്ഷനും TRIM-ഉം കാരണം ഡിലീറ്റ് ചെയ്ത ഫയലുകൾ പൂർണ്ണമായി വീണ്ടെടുക്കാൻ കഴിഞ്ഞേക്കില്ല. അറ്റകുറ്റപ്പണികൾ എപ്പോഴും പുതിയ പകർപ്പിൽ മാത്രമാണ്.</string>
+</resources>
